@@ -18,7 +18,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'vnd_bf7_h6127-user-12-SP1A.210812.016-651674-release-keys'
+        default: 'main'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
